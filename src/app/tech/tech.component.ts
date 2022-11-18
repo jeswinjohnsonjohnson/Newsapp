@@ -22,7 +22,6 @@ export class TechComponent implements OnInit {
       
     })
 
-
   }
 
 }
